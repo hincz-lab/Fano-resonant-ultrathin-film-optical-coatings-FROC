@@ -3,5 +3,8 @@ Folder: Figure_1
 This folder contains:
   - figure 1.svg : Figure 1 from the paper, presented in .svg format
   
+Subfolders:
+  - Theory_Plots: Data for figure 1, panels c-e. Theoretical calculations for the individual and coupled oscillators.
+  
 Tools for opening:
   - figure 1.svg : This file can be opened in: GIMP (free), Inkscape (free), Adobe Illustrator (Adobe), or most modern web browsers
