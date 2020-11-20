@@ -1,0 +1,29 @@
+
+
+Folder: theory-plots
+
+This folder contains the data for figure 1, panels c-e. Theoretical calculations for both the individual and coupled oscillators.
+(Clone of Figure_1/Theory_Plots)
+
+This folder contains:
+  - FROC theory plots.ipynb    : IPYTHON notebook used to generate the theory plots
+  - osc_coupled_refl2.txt      : Reflection data for the coupled resonators
+  - osc_coupled_trans2.txt     : Transmission data for the coupled resonators
+  - osc1_intensity_new.txt     : Intensity data for oscillator 1, figure 1, panel c
+  - osc2_intensity_new.txt     : Intensity data for oscillator 2, figure 1, panel c
+  - osc1_phase_new.txt         : Phase data for oscillator 1, figure 1, panel d
+  - osc2_phase_new.txt         : Phase data for oscillator 2, figure 1, panel d
+  - osc1_coupled_refl_new.txt  : Reflection data for the coupled resonators, figure 1, panel e
+  - osc1_refl_new.txt          : Reflection data for the first resonator alone, figure 1, panel e
+  
+Tools for opening:
+  - FROC theory plots.ipynb    : This file can be opened in: Jupyter Notebook (Project Jupyter)
+  - osc_coupled_refl2.txt      : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc_coupled_trans2.txt     : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc1_intensity_new.txt     : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc2_intensity_new.txt     : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc1_phase_new.txt         : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc2_phase_new.txt         : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc1_coupled_refl_new.txt  : This file can be opened in: Standard text editor, imported into most spreadsheet software
+  - osc1_refl_new.txt          : This file can be opened in: Standard text editor, imported into most spreadsheet software
+
