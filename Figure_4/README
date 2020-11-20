@@ -1,1 +1,11 @@
+Folder: Figure_4
 
+This folder contains:
+  - figure 4.svg           : Figure 4 from the paper, presented in .svg format
+  - data-Fig 4a 4b.opj     : Data for figure 2, panels a-b, presented in .opj format
+  - data-Fig 4e 4f 4g.opj  : Data for figure 2, panels e-g, presented in .opj format
+
+Tools for opening:
+  - figure 4.svg           : This file can be opened in: GIMP (free), Inkscape (free), Adobe Illustrator (Adobe), or most modern web browsers
+  - data-Fig 4a 4b.opj     : This file can be opened in: Origin (OriginLab Corp)
+  - data-Fig 4e 4f 4g.opj  : This file can be opened in: Origin (OriginLab Corp)
