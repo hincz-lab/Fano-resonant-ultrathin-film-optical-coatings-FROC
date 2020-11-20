@@ -1,0 +1,12 @@
+Folder: Figure_3
+
+This folder contains:
+  - figure 3.svg        : Figure 3 from the paper, presented in .svg format
+  - data-Fig 3a 3b.opj  : Data for figure 3, panels a-b, presented in .opj format
+  - data-Fig 3c.opj     : Data for figure 3, panel c, presented in .opj format
+
+  
+Tools for opening:
+  - figure 3.svg        : This file can be opened in: GIMP (free), Inkscape (free), Adobe Illustrator (Adobe), or most modern web browsers
+  - data-Fig 3a 3b.opj  : This file can be opened in: Origin (OriginLab Corp)
+  - data-Fig 3c.opj     : This file can be opened in: Origin (OriginLab Corp)
